@@ -7,4 +7,5 @@ by [Michael Hartl](http://michaelhartl.com/).
 Quality
 ---
 
-<b>Code Climate:</b> https://codeclimate.com/github/dancastellani/first_app
+* <b>Code Climate:</b> https://codeclimate.com/github/dancastellani/first_app
+* <b>Codeship:</b> https://www.codeship.io/projects/4499
